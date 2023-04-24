@@ -28,7 +28,7 @@ https://github.com/elastic/beats/compare/v8.7.0\...v8.7.1[View commits]
 
 *Heartbeat*
 
-- Fix issue using projects in airgapped environments by disabling npm audit. {pull}34936[34936]
+- Fix issue using projects in air-gapped environments by disabling npm audit. {pull}34936[34936]
 
 *Packetbeat*
 
